@@ -42,3 +42,9 @@ http://localhost:8080/action/registerInCourse/		POST
 4-get user Courses   	GET
 http://localhost:8080/action/getUserCourses/1
 
+
+
+
+# TEST
+Test is already integrated and work well with mockMVC just need your business to start write test function
+
